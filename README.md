@@ -106,3 +106,4 @@ Dada la solidez de la arquitectura multicapa actual, la migración no requiere u
 < 2019-01-20T17:30:00 --> 
 < 2016-09-04T18:45:00 --> 
 < 2020-02-17T03:11:00 --> 
+< 2022-11-24T15:07:00 --> 
